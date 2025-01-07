@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi
+*Web Developer Profile in PHP and HTML* ‹𝟹
+
+## My Skills
+
+- PHP 8.x — 80%
+- HTML5 — 75%
+- CSS3 — 75%
+- Telegram API — 60%
+
+## ✨ _special_ ✨
+
+- 🌱 I’m currently learning Telegram bots API.
+- 🔭 I’m currently working on my new pet project.
+- 💖 My favorite hobbies: anime, manga, manhwa, history, psychology ˗ˏˋ ♡ ˎˊ˗
 
 <!--
-**htmllove/htmllove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+TODO: Add a description about yourself for potential employers.
 -->
